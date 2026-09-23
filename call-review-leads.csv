@@ -1,0 +1,284 @@
+﻿lead_id,stage_at_cutoff,contact_group,latest_explicit_interest,ever_said_busy,ever_requested_callback,quality_group
+BL-001,Cant Afford/Not target audience,At least one real discussion,positive,False,False,researching
+BL-002,Follow Up,At least one real discussion,mixed,True,True,medium_term
+BL-003,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-004,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-005,Dead Lead,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-006,Dead Lead,At least one real discussion,mixed,True,True,medium_term
+BL-007,Follow Up,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-008,Follow Up,At least one real discussion,mixed,False,False,medium_term
+BL-009,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,budget_objection
+BL-010,Dead Lead,Only a brief chat or practical arrangements,positive,True,True,medium_term
+BL-011,Follow Up,At least one real discussion,mixed,False,True,medium_term
+BL-012,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-013,Cant visit to London,At least one real discussion,mixed,False,True,researching
+BL-014,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-015,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-016,Cant Afford/Not target audience,Only a brief chat or practical arrangements,not_assessable,False,True,medium_term
+BL-017,Booked - paid consultation,At least one real discussion,positive,False,False,medium_term
+BL-018,Follow Up,At least one real discussion,mixed,True,True,medium_term
+BL-019,Dead Lead,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-020,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-021,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-022,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-023,Unable to connect,At least one real discussion,positive,False,True,medium_term
+BL-024,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-025,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-026,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-027,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-028,Dead Lead,Only a brief chat or practical arrangements,not_assessable,False,False,near_term
+BL-029,Follow Up,At least one real discussion,positive,False,False,near_term
+BL-030,Dead Lead,Only a brief chat or practical arrangements,not_assessable,False,False,near_term
+BL-031,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,budget_objection
+BL-032,Dead Lead,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-033,Dead Lead,At least one real discussion,negative,True,True,near_term
+BL-034,Cant visit to London,At least one real discussion,mixed,True,True,medium_term
+BL-035,Follow Up,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-036,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-037,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-038,Dead Lead,At least one real discussion,negative,True,True,medium_term
+BL-039,Follow Up,At least one real discussion,positive,False,True,medium_term
+BL-040,Follow Up,At least one real discussion,not_assessable,False,False,medium_term
+BL-041,Dead Lead,At least one real discussion,not_assessable,True,True,medium_term
+BL-042,Follow Up,At least one real discussion,mixed,False,True,researching
+BL-043,Dead Lead,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-044,Follow Up,At least one real discussion,mixed,True,True,researching
+BL-045,Cant visit to London,At least one real discussion,mixed,True,True,medium_term
+BL-046,Visit registered,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-047,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-048,Contacted,At least one real discussion,mixed,False,True,medium_term
+BL-049,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-050,Follow Up,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-051,Follow Up,At least one real discussion,positive,False,True,near_term
+BL-052,Follow Up,At least one real discussion,mixed,True,True,medium_term
+BL-053,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-054,Cant visit to London,At least one real discussion,mixed,False,True,medium_term
+BL-055,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-056,Follow Up,At least one real discussion,mixed,True,True,researching
+BL-057,Follow Up,At least one real discussion,positive,True,True,near_term
+BL-058,Cant Afford/Not target audience,At least one real discussion,negative,True,True,researching
+BL-059,Follow Up,At least one real discussion,mixed,True,True,near_term
+BL-060,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-061,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,budget_objection
+BL-062,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,researching
+BL-063,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-064,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-065,Follow Up,Only a brief chat or practical arrangements,positive,True,True,medium_term
+BL-066,Follow Up,At least one real discussion,positive,False,False,unconfirmed
+BL-067,Follow Up,At least one real discussion,mixed,False,False,near_term
+BL-068,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-069,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-070,Cant Afford/Not target audience,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-071,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-072,Visit registered,At least one real discussion,positive,False,True,medium_term
+BL-073,Follow Up,At least one real discussion,mixed,False,False,unconfirmed
+BL-074,Visit registered,At least one real discussion,positive,True,False,researching
+BL-075,Dead Lead,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-076,Cant Afford/Not target audience,At least one real discussion,mixed,True,False,budget_objection
+BL-077,Dead Lead,Only a brief chat or practical arrangements,not_assessable,False,False,medium_term
+BL-078,Contacted,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-079,Dead Lead,At least one real discussion,negative,False,False,near_term
+BL-080,Follow Up,At least one real discussion,positive,True,True,researching
+BL-081,Follow Up,At least one real discussion,mixed,False,True,researching
+BL-082,Dead Lead,At least one real discussion,not_assessable,True,True,medium_term
+BL-083,Follow Up,At least one real discussion,positive,True,True,researching
+BL-084,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-085,Booked - paid consultation,At least one real discussion,positive,False,True,medium_term
+BL-086,Follow Up,At least one real discussion,positive,False,True,near_term
+BL-087,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-088,Follow Up,At least one real discussion,positive,True,True,near_term
+BL-089,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,budget_objection
+BL-090,Unable to connect,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-091,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-092,Follow Up,At least one real discussion,positive,False,False,medium_term
+BL-093,Unable to connect,Only a brief chat or practical arrangements,not_assessable,True,True,unconfirmed
+BL-094,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-095,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-096,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-097,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,near_term
+BL-098,Follow Up,At least one real discussion,positive,False,True,near_term
+BL-099,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-100,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-101,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-102,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-103,Contacted,At least one real discussion,mixed,True,True,budget_objection
+BL-104,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-105,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-106,Follow Up,At least one real discussion,positive,True,True,researching
+BL-107,Follow Up,At least one real discussion,mixed,False,False,researching
+BL-108,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,unconfirmed
+BL-109,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-110,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-111,Follow Up,At least one real discussion,not_assessable,False,False,researching
+BL-112,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-113,Follow Up,At least one real discussion,mixed,False,True,researching
+BL-114,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-115,Follow Up,At least one real discussion,positive,False,False,near_term
+BL-116,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-117,Cant Afford/Not target audience,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-118,Contacted,At least one real discussion,not_assessable,False,False,medium_term
+BL-119,Follow Up,At least one real discussion,positive,False,True,unconfirmed
+BL-120,Cant Afford/Not target audience,At least one real discussion,negative,True,True,near_term
+BL-121,Dead Lead,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-122,Cant visit to London,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-123,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-124,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-125,Dead Lead,At least one real discussion,not_assessable,True,True,medium_term
+BL-126,Cant visit to London,At least one real discussion,mixed,False,True,medium_term
+BL-127,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-128,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-129,Dead Lead,At least one real discussion,positive,False,False,medium_term
+BL-130,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,near_term
+BL-131,Follow Up,At least one real discussion,positive,False,True,medium_term
+BL-132,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,near_term
+BL-133,Follow Up,At least one real discussion,positive,False,True,medium_term
+BL-134,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-135,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-136,Follow Up,At least one real discussion,positive,True,True,medium_term
+BL-137,Follow Up,At least one real discussion,positive,False,True,medium_term
+BL-138,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-139,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-140,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-141,Follow Up,Only a brief chat or practical arrangements,not_assessable,False,True,medium_term
+BL-142,Follow Up,At least one real discussion,positive,False,True,researching
+BL-143,Follow Up,At least one real discussion,positive,False,True,near_term
+BL-144,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-145,Contacted,Only a brief chat or practical arrangements,not_assessable,True,False,medium_term
+BL-146,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,researching
+BL-147,Follow Up,At least one real discussion,positive,True,True,near_term
+BL-148,Follow Up,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,medium_term
+BL-149,Follow Up,Only a brief chat or practical arrangements,positive,True,True,medium_term
+BL-150,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,False,researching
+BL-151,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,budget_objection
+BL-152,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-153,Contacted,At least one real discussion,mixed,False,True,medium_term
+BL-154,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-155,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-156,Contacted,At least one real discussion,mixed,False,True,near_term
+BL-157,Dead Lead,Only a brief chat or practical arrangements,negative,False,False,researching
+BL-158,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-159,Follow Up,At least one real discussion,mixed,False,True,researching
+BL-160,Follow Up,At least one real discussion,positive,False,False,researching
+BL-161,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-162,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-163,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-164,Dead Lead,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-165,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,researching
+BL-166,Dead Lead,Only a brief chat or practical arrangements,not_assessable,True,False,medium_term
+BL-167,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-168,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-169,Contacted,Only a brief chat or practical arrangements,not_assessable,False,False,researching
+BL-170,Booked - paid consultation,At least one real discussion,positive,False,False,near_term
+BL-171,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-172,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-173,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,budget_objection
+BL-174,Follow Up,At least one real discussion,mixed,True,True,near_term
+BL-175,Dead Lead,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-176,Follow Up,At least one real discussion,mixed,True,True,near_term
+BL-177,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,near_term
+BL-178,Follow Up,Only a brief chat or practical arrangements,not_assessable,True,True,medium_term
+BL-179,Contacted,"Only greetings, unclear speech or missing recordings; breakdown below",not_assessable,False,False,unconfirmed
+BL-180,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-181,Contacted,At least one real discussion,mixed,False,True,researching
+BL-182,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-183,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-184,Visit registered,At least one real discussion,positive,False,True,medium_term
+BL-185,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-186,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-187,Dead Lead,Only a brief chat or practical arrangements,not_assessable,False,False,medium_term
+BL-188,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-189,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-190,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-191,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-192,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-193,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-194,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-195,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-196,Contacted,At least one real discussion,positive,False,False,medium_term
+BL-197,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-198,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-199,Contacted,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,researching
+BL-200,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-201,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-202,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-203,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-204,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-205,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-206,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-207,New Lead,At least one real discussion,positive,False,True,unconfirmed
+BL-208,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-209,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,unconfirmed
+BL-210,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-211,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-212,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-213,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-214,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-215,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-216,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-217,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-218,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-219,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-220,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-221,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-222,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-223,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,medium_term
+BL-224,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-225,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-226,Unable to connect,"Voicemail, no answer, busy or failed calls, automated messages or wrong numbers; no conversation with the lead",not_assessable,False,False,unconfirmed
+BL-227,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-228,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-229,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-230,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-231,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-232,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-233,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-234,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-235,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-236,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-237,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-238,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-239,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-240,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-241,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,unconfirmed
+BL-242,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-243,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-244,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-245,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-246,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-247,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-248,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-249,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-250,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-251,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-252,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-253,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-254,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-255,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-256,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-257,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-258,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-259,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-260,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-261,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-262,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-263,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-264,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-265,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-266,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-267,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-268,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-269,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-270,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-271,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection
+BL-272,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-273,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-274,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-275,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-276,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-277,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,medium_term
+BL-278,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-279,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-280,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-281,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,researching
+BL-282,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,near_term
+BL-283,New Lead,No outgoing or incoming call recorded after the enquiry,not_assessable,False,False,budget_objection

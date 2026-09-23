@@ -1,0 +1,51 @@
+﻿lead_id,stage_at_cutoff,contact_group,quality_group,concern,area,timeline,budget,prior_consideration
+BL-078,Contacted,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Upper eyelids,Within 2 weeks,Yes,Yes
+BL-182,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Loose skin around the eyes,Both upper and lower,1–3 months,Yes,I prefer a non-surgical option
+BL-183,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Loose skin around the eyes,Lower eyelids,Within 2 weeks,Yes,This is my first enquiry
+BL-185,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Combination,Both upper and lower,1–3 months,Yes,Yes
+BL-186,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Both upper and lower,This month,Yes,I prefer a non-surgical option
+BL-188,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,Yes
+BL-191,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,Yes
+BL-192,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Crow's feet,Upper eyelids,1–3 months,Yes,Yes
+BL-194,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,I prefer a non-surgical option
+BL-195,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-198,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,I prefer a non-surgical option
+BL-200,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Combination,Upper eyelids,Within 2 weeks,Yes,I prefer a non-surgical option
+BL-201,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Upper eyelids,Within 2 weeks,Yes,Yes
+BL-202,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Both upper and lower,This month,Yes,This is my first enquiry
+BL-203,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Lower eyelids,This month,Yes,This is my first enquiry
+BL-204,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-208,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids; Under-eye bags,Both upper and lower,Within 2 weeks,Yes,Yes
+BL-212,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Crow's feet; Under-eye bags; Loose skin around the eyes,Lower eyelids,1–3 months,Yes,Yes
+BL-216,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Under-eye bags,Both upper and lower,1–3 months,Yes,Yes
+BL-220,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Loose skin around the eyes; Under-eye bags; Hooded upper eyelids,Lower eyelids,This month,Yes,Yes
+BL-225,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Upper eyelids,This month,Yes,This is my first enquiry
+BL-227,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Under-eye bags,Lower eyelids,1–3 months,Yes,I prefer a non-surgical option
+BL-228,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Upper eyelids,Within 2 weeks,Yes,Yes
+BL-229,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Loose skin around the eyes; Hooded upper eyelids; Crow's feet,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-230,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,Yes
+BL-231,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Both upper and lower,This month,Yes,This is my first enquiry
+BL-233,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids; Under-eye bags,Both upper and lower,1–3 months,Yes,I prefer a non-surgical option
+BL-234,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Combination,Both upper and lower,1–3 months,Yes,This is my first enquiry
+BL-236,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Lower eyelids,Within 2 weeks,Yes,I prefer a non-surgical option
+BL-238,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Combination,Both upper and lower,1–3 months,Yes,This is my first enquiry
+BL-242,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids; Under-eye bags,Both upper and lower,1–3 months,Yes,Yes
+BL-246,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Lower eyelids,Within 2 weeks,Yes,Yes
+BL-247,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Combination; Under-eye bags; Loose skin around the eyes; Hooded upper eyelids,Both upper and lower,This month,Yes,I prefer a non-surgical option
+BL-248,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Loose skin around the eyes; Under-eye bags; Hooded upper eyelids,Both upper and lower,Within 2 weeks,Yes,This is my first enquiry
+BL-252,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Both upper and lower,This month,Yes,Yes
+BL-253,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Under-eye bags,Lower eyelids,1–3 months,Yes,I prefer a non-surgical option
+BL-257,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,Yes
+BL-259,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-261,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Under-eye bags,Lower eyelids,1–3 months,Yes,Yes
+BL-264,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids; Combination,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-268,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Loose skin around the eyes,Lower eyelids,Within 2 weeks,Yes,Yes
+BL-270,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids; Under-eye bags; Loose skin around the eyes; Crow's feet; Combination,Both upper and lower,1–3 months,Yes,This is my first enquiry
+BL-272,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Upper eyelids,This month,Yes,This is my first enquiry
+BL-273,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Combination,Both upper and lower,1–3 months,Yes,Yes
+BL-275,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,This is my first enquiry
+BL-276,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Combination,Both upper and lower,1–3 months,Yes,Yes
+BL-277,New Lead,No outgoing or incoming call recorded after the enquiry,medium_term,Hooded upper eyelids,Upper eyelids,1–3 months,Yes,Yes
+BL-278,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Hooded upper eyelids,Upper eyelids,Within 2 weeks,Yes,This is my first enquiry
+BL-279,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Loose skin around the eyes,Upper eyelids,Within 2 weeks,Yes,Yes
+BL-282,New Lead,No outgoing or incoming call recorded after the enquiry,near_term,Under-eye bags,Lower eyelids,This month,Yes,I prefer a non-surgical option
